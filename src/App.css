@@ -2,9 +2,18 @@
   height: 10vh;
   background-color: lime;
   box-shadow: 0 30px 40px 40px rgba(0,0,0,.1);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
 
 .test-image {
   height: 400px;
   width: 300px;
+}
+
+.shop-title {
+}
+
+.shopping-basket {
 }
